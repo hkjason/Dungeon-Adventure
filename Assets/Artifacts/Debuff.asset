@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8caebc8e2f6424e49b1a8569d2f18f39, type: 3}
+  m_Name: Debuff
+  m_EditorClassIdentifier: 
+  artifactType: 1
+  artifactName: Debuff
+  artifactDescription: "\u5514\u6703\u4E2D\u7570\u5E38\u72C0\u614B(\u9650\u6B21\u6578)"
+  artifactArtwork: {fileID: 21300000, guid: 856accd70b4bf41238a5f6a6e892447c, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097e39ccf980c604393d641cb441c0d0, type: 3}
+  m_Name: D5_PoisonWhip
+  m_EditorClassIdentifier: 
+  id: 1005
+  skillName: PoisonWhip
+  clickCD: 0
+  skillDescription: 
+  skillType: 0
+  skillIcon: {fileID: 0}
+  effect: {fileID: 168136, guid: 47c6eee70f9391f46a710b0592491a63, type: 3}
+  effectPosition: 6
+  damageSkillType: 0
+  damageMultiplier: 1.2
+  attachedStatus: {fileID: 11400000, guid: c97aed50a8a48164696e34d3d754b1d2, type: 2}
+  attachChance: 0

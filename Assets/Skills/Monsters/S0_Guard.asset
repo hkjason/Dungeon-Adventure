@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42d99e935e85f014082bcc7740be8231, type: 3}
+  m_Name: S0_Guard
+  m_EditorClassIdentifier: 
+  id: 1009
+  skillName: Guard
+  clickCD: 0
+  skillDescription: 
+  skillType: 2
+  skillIcon: {fileID: 0}
+  effect: {fileID: 127866, guid: 70b26805973318349bb2c60f8b37c8c3, type: 3}
+  effectPosition: 6
+  isSelfCast: 1
+  attachStatus: {fileID: 11400000, guid: d34a65afdc351ce44a50d07d13630926, type: 2}

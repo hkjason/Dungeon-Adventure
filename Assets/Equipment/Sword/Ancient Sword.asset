@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7378dcb211eb748b1b72d21008b88a, type: 3}
+  m_Name: Ancient Sword
+  m_EditorClassIdentifier: 
+  id: 6019
+  itemName: Ancient Sword
+  description: 
+  equipmentType: 6
+  equipmentAttributes: 2
+  artWork: {fileID: 21300000, guid: 5a99f76b789464b07b9f88d1121fba80, type: 3}
+  attributeValue: 11
+  minorAttributesDB:
+  - minorAttributeType: 1
+    value: 3
+    obtainPercentage: 30
+  - minorAttributeType: 2
+    value: 3
+    obtainPercentage: 30
+  minorAttributes: []

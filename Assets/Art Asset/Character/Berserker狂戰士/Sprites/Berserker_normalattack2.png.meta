@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 4f0322a3bb682004e88c9990af5ef997
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4833567073613668047
+    second: Berserker_normalattack2_0
+  - first:
+      213: -1372249073457195777
+    second: Berserker_normalattack2_1
+  - first:
+      213: 8661476663305613333
+    second: Berserker_normalattack2_2
+  - first:
+      213: -8889338279435773294
+    second: Berserker_normalattack2_3
+  - first:
+      213: 2773873846007007760
+    second: Berserker_normalattack2_4
+  - first:
+      213: -5606209440231920593
+    second: Berserker_normalattack2_5
+  - first:
+      213: 2723168789628383647
+    second: Berserker_normalattack2_6
+  - first:
+      213: -59622773183330179
+    second: Berserker_normalattack2_7
+  - first:
+      213: 5084106750570863556
+    second: Berserker_normalattack2_8
+  - first:
+      213: -3552321630084880648
+    second: Berserker_normalattack2_9
+  - first:
+      213: 3585201458179392040
+    second: Berserker_normalattack2_10
+  - first:
+      213: -6558752951248909070
+    second: Berserker_normalattack2_11
+  - first:
+      213: -3442315052455144833
+    second: Berserker_normalattack2_12
+  - first:
+      213: -2807800394666986751
+    second: Berserker_normalattack2_13
+  - first:
+      213: 5264520752439686722
+    second: Berserker_normalattack2_14
+  - first:
+      213: 7630971128545510461
+    second: Berserker_normalattack2_15
+  - first:
+      213: -4493986717847273089
+    second: Berserker_normalattack2_16
+  - first:
+      213: 3101872927072502936
+    second: Berserker_normalattack2_17
+  - first:
+      213: -1143597905151226882
+    second: Berserker_normalattack2_18
+  - first:
+      213: 8275650946175173271
+    second: Berserker_normalattack2_19
+  - first:
+      213: 8610573822168784481
+    second: Berserker_normalattack2_0
+  - first:
+      213: 7635797244063333531
+    second: Berserker_normalattack2_1
+  - first:
+      213: -5000926572028239845
+    second: Berserker_normalattack2_2
+  - first:
+      213: 6648130289269523047
+    second: Berserker_normalattack2_3
+  - first:
+      213: -5305954825087026639
+    second: Berserker_normalattack2_4
+  - first:
+      213: 6931769352369578132
+    second: Berserker_normalattack2_5
+  - first:
+      213: 2587715783567727465
+    second: Berserker_normalattack2_6
+  - first:
+      213: 133743385242704850
+    second: Berserker_normalattack2_7
+  - first:
+      213: -195463814426443826
+    second: Berserker_normalattack2_8
+  - first:
+      213: 1788917079122310116
+    second: Berserker_normalattack2_9
+  - first:
+      213: -7384187137084899033
+    second: Berserker_normalattack2_10
+  - first:
+      213: 6721353483440317739
+    second: Berserker_normalattack2_11
+  - first:
+      213: -2948338081333190802
+    second: Berserker_normalattack2_12
+  - first:
+      213: 1403346105264615727
+    second: Berserker_normalattack2_13
+  - first:
+      213: -3261642333446970945
+    second: Berserker_normalattack2_14
+  - first:
+      213: 4697817342499394722
+    second: Berserker_normalattack2_15
+  - first:
+      213: 4641301426971340105
+    second: Berserker_normalattack2_16
+  - first:
+      213: 7843028913833041326
+    second: Berserker_normalattack2_17
+  - first:
+      213: 555501071645476410
+    second: Berserker_normalattack2_18
+  - first:
+      213: -5410051103368437942
+    second: Berserker_normalattack2_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Berserker_normalattack2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ed5ae3547ee7770800000000000000
+      internalID: 8610573822168784481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c3d45232dc7f960800000000000000
+      internalID: 7635797244063333531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e17e57c3299ab0800000000000000
+      internalID: -5000926572028239845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762cc685647e24c50800000000000000
+      internalID: 6648130289269523047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13afa60e2367d56b0800000000000000
+      internalID: -5305954825087026639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ade8ff77923060800000000000000
+      internalID: 6931769352369578132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bd93b7bc969e320800000000000000
+      internalID: 2587715783567727465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_7
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db137876e62bd100800000000000000
+      internalID: 133743385242704850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3ba642b2994df0800000000000000
+      internalID: -195463814426443826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_9
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 96
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f6b9fa9283d810800000000000000
+      internalID: 1788917079122310116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721cb030ce8168990800000000000000
+      internalID: -7384187137084899033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256b46c16b074d50800000000000000
+      internalID: 6721353483440317739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd060d2266517d0800000000000000
+      internalID: -2948338081333190802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b935f8dfa97310800000000000000
+      internalID: 1403346105264615727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1648224915cb2d0800000000000000
+      internalID: -3261642333446970945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4985f9bfff13140800000000000000
+      internalID: 4697817342499394722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_16
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de322ae07396040800000000000000
+      internalID: 4641301426971340105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd2243e3908dc60800000000000000
+      internalID: 7843028913833041326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3607cf084985b700800000000000000
+      internalID: 555501071645476410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berserker_normalattack2_19
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 170
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2149506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f93076f23abe4b0800000000000000
+      internalID: -5410051103368437942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
